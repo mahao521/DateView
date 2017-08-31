@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125aa7</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewBg">#f9f6f6</color>
+
+    <color name="colorBlue">#518d9b</color>
+    <color name="txtColorBlack">#454343</color>
+    <color name="colorDefault">#dedbdb</color>
+    <color name="lineColor">#dedbdb</color>
+    <color name="txtColorSelect">#f9f6f6</color>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <declare-styleable name="DatePickView">
+        <attr name="dateHeight" format="dimension"></attr>
+        <attr name="txtBgColor" format="reference"></attr>
+        <attr name="txtColor" format="reference"></attr>
+        <attr name="lineColor" format="reference"></attr>
+        <attr name="txtBgSecColor" format="reference"></attr>
+        <attr name="txtSelectColor" format="reference"></attr>
+    </declare-styleable>
+
+</resources>
